@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Github -->
+  <remote  name="github"
+           fetch="https://github.com/" />
+
+  <remote  name="atom"
+           revision="r"
+           fetch="https://github.com/AtomOSProject/" />
+
+  <!-- GitLab -->
+  <remote name="gitlab"
+          fetch="https://gitlab.com/" />
+
+  <!-- Code Aurora Forums -->
+  <remote name="caf"
+          fetch="https://source.codeaurora.org/quic/la"
+          revision="refs/tags/LA.UM.9.1.r1-06700-SMxxx0.0" />
+
+</manifest>
