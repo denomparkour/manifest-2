@@ -88,6 +88,7 @@
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
   <remove-project name="platform/frameworks/opt/telephony" />  
+  <remove-project name="platform/frameworks/native" />
   <!-- Hardware -->
   <remove-project name="platform/hardware/libhardware" />
   <remove-project name="platform/hardware/qcom/display" />
@@ -100,6 +101,7 @@
   <remove-project name="platform/packages/apps/QuickSearchBox" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/ThemePicker" />
+  <remove-project name="platform/packages/apps/SettingsIntelligence" />
 
   <!-- Prebuilts -->
   <remove-project name="kernel/prebuilts/4.19/arm64" />

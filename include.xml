@@ -66,6 +66,7 @@
   <!-- Packages -->
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" remote="atom" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="atom" />
+  <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="atom" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="atom" />
@@ -90,6 +91,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="atom" />
+  <project path="frameworks/av" name="frameworks_native" remote="atom" />
 
   <!-- Hardware -->
   <project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" remote="atom" >
