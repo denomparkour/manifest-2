@@ -92,7 +92,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="atom" />
-  <project path="frameworks/av" name="frameworks_native" remote="atom" />
+  <project path="frameworks/native" name="frameworks_native" remote="atom" />
 
   <!-- Hardware -->
   <project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" remote="atom" >
