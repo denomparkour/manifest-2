@@ -52,6 +52,7 @@
   <!-- Frameworks -->
   <project path="frameworks/base" name="frameworks_base" remote="atom" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="atom" />
+  <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="atom" />
 
   <!-- Hardware -->
   <project path="hardware/libhardware" name="hardware_libhardware" remote="atom" />
@@ -59,6 +60,7 @@
   <project path="hardware/qcom/gps" name="hardware_qcom_gps" remote="atom" />
   <project path="hardware/qcom/keymaster" name="hardware_qcom_keymaster" remote="atom" />
   <project path="hardware/qcom/media" name="hardware_qcom_media" remote="atom" />
+   <project path="hardware/ril" name="hardware_ril" remote="atom" />
 
   <!-- Manifest -->
   <project path="manifest" name="manifest" remote="atom" />
@@ -130,7 +132,7 @@
   <project path="system/qcom" name="system_qcom" remote="atom" />
 
   <!-- Vendor -->
-  <project path="vendor/codeaurora/telephony" name="platform/vendor/codeaurora/telephony" remote="caf" revision="refs/tags/LA.QSSI.11.0.r1-05600-qssi.0" />
+  <project path="vendor/codeaurora/telephony" name="vendor_codeaurora_telephony" remote="atom" />
   <project path="vendor/qcom/opensource/audio" name="platform/vendor/qcom-opensource/audio" remote="caf" revision="refs/tags/LA.QSSI.11.0.r1-05600-qssi.0" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr" remote="atom" />
   <project path="vendor/qcom/opensource/dataservices" name="vendor_qcom_opensource_dataservices" remote="atom" />
