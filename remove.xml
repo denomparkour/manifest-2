@@ -93,6 +93,7 @@
 
   <!-- Hardware -->
   <remove-project name="platform/hardware/libhardware" />
+  <remove-project name="platform/hardware/nxp/nfc" />
   <remove-project name="platform/hardware/qcom/display" />
   <remove-project name="platform/hardware/qcom/gps" />
   <remove-project name="platform/hardware/qcom/keymaster" />
@@ -100,6 +101,7 @@
   <remove-project name="platform/hardware/ril" />
   <!-- Packages -->
   <remove-project name="platform/packages/apps/Launcher3" />
+  <remove-project name="platform/packages/apps/Nfc" />
   <remove-project name="platform/packages/apps/QuickSearchBox" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/ThemePicker" />

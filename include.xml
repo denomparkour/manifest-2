@@ -70,6 +70,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="atom" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="atom" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="atom" />
+  <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="atom" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="atom" />
@@ -97,6 +98,7 @@
   <project path="frameworks/native" name="frameworks_native" remote="atom" />
 
   <!-- Hardware -->
+  <project path="hardware/nxp/nfc" name="hardware_nxp_nfc" remote="atom" />
   <project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" remote="atom" >
     <!-- Add guard for AOSP hardware/qcom directory. -->
     <linkfile src="os_pickup_aosp.mk" dest="hardware/qcom/Android.mk" />
