@@ -147,5 +147,11 @@
   <project path="vendor/qcom/opensource/power" name="vendor_qcom_opensource_power" remote="atom" />
   <project path="vendor/qcom/opensource/vibrator" name="vendor_qcom_opensource_vibrator" remote="atom" />
 
+  <!-- Gitlab -->
+  <remote  name="gitlab"
+           revision="r"
+           fetch="https://gitlab.com//AtomOS/" />
 
+  <!-- Git -->
+  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="gitlab"  />
 </manifest>
