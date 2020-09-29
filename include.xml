@@ -101,6 +101,7 @@
   <project path="frameworks/native" name="frameworks_native" remote="atom" />
 
   <!-- Hardware -->
+  <project path="hardware/custom/interfaces" name="hardware_custom_interfaces" remote="atom" />
   <project path="hardware/nxp/nfc" name="hardware_nxp_nfc" remote="atom" />
   <project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" remote="atom" >
     <!-- Add guard for AOSP hardware/qcom directory. -->
