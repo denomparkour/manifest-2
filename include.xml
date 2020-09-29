@@ -71,6 +71,9 @@
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" remote="atom" />
   <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" remote="atom" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="atom" />
+  <project path="packages/apps/Dialer" name="packages_apps_Dialer" remote="atom" />
+  <project path="packages/apps/Contacts" name="packages_apps_Contacts" remote="atom" />
+  <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" remote="atom" />
 
   <!-- Prebuilts -->
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="atom" />
