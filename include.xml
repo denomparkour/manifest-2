@@ -9,10 +9,6 @@
            revision="r"
            fetch="https://github.com/AtomOSProject/" />
 
-  <!-- GitLab -->
-  <remote name="gitlab"
-          fetch="https://gitlab.com/" />
-
   <!-- Code Aurora Forums -->
   <remote name="caf"
           fetch="https://source.codeaurora.org/quic/la"
